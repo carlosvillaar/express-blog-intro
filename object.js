@@ -1,32 +1,32 @@
 const posts = [
   {
-    title: 'ciao',
+    title: 'ciambellone',
     content: 'contenuto', 
-    image: 'img',
+    image: 'images/ciambellone.jpeg',
     tag: [`stinga`, `stringa`, `stringa`, `stringa`, `stringa`]
   },
   {
-    title: 'ciao',
+    title: 'cracker',
     content: 'contenuto', 
-    image: 'img',
+    image: 'images/cracker_barbabietola.jpeg',
     tag: [`stinga`, `stringa`, `stringa`, `stringa`, `stringa`]
   },
   {
-    title: 'ciao',
+    title: 'pane',
     content: 'contenuto', 
-    image: 'img',
+    image: 'images/pane_fritto_dolce.jpeg',
     tag: [`stinga`, `stringa`, `stringa`, `stringa`, `stringa`]
   },
   {
-    title: 'ciao',
+    title: 'pasta',
     content: 'contenuto', 
-    image: 'img',
+    image: 'images/pasta_barbabietola.jpeg',
     tag: [`stinga`, `stringa`, `stringa`, `stringa`, `stringa`]
   },
   {
-    title: 'ciao',
+    title: 'torta',
     content: 'contenuto', 
-    image: 'img',
+    image: 'images/torta_paesana.jpeg',
     tag: [`stinga`, `stringa`, `stringa`, `stringa`, `stringa`]
   }
 ];
